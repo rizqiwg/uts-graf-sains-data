@@ -1,6 +1,6 @@
 # UTS Graf Sains Data: Rekomendasi Item dengan Neo4j (RetailRocket)
 
-**Nama:** Rizqi Wahyu Gusniadi · **Prodi:** S1 Sains Data, Universitas Negeri Surabaya · **Mata kuliah:** Graf Sains Data (UTS Gasal 2026/2027, individu)
+**Nama:** Rizqi Wahyu Gusniadi · **NIM:** 24031554203 · **Prodi:** S1 Sains Data, Universitas Negeri Surabaya · **Mata kuliah:** Graf Sains Data (UTS Gasal 2026/2027, individu)
 
 Notebook ini mengerjakan UTS Graf Sains Data: data interaksi RetailRocket dimuat ke graf Neo4j, direpresentasikan dengan Vector Space Model, dihitung similarity antar item (cosine), lalu dipakai untuk rekomendasi KNN item-based dan dievaluasi dengan Hit@5 dan NDCG@5.
 
@@ -11,7 +11,7 @@ Notebook ini mengerjakan UTS Graf Sains Data: data interaksi RetailRocket dimuat
 
 ```
 .
-├── UTS_GrafSainsData.ipynb   # notebook utama: kode, output, dan penjelasan
+├── 203_UTS_Graf_Sains_Data.ipynb   # notebook utama: kode, output, dan penjelasan
 ├── data/
 │   ├── events_P1.csv         # hasil filter P1 (training)
 │   └── events_P2.csv         # hasil filter P2 (testing)

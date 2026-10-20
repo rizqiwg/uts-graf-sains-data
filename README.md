@@ -4,7 +4,7 @@
 
 Notebook ini mengerjakan UTS Graf Sains Data: data interaksi RetailRocket dimuat ke graf Neo4j, direpresentasikan dengan Vector Space Model, dihitung similarity antar item (cosine), lalu dipakai untuk rekomendasi KNN item-based dan dievaluasi dengan Hit@5 dan NDCG@5.
 
-- **Periode (ditetapkan dosen):** P1 / training = 18–31 Mei 2015, P2 / testing = 16–31 Juli 2015 (UTC, batas akhir inklusif).
+- **Periode:** P1 / training = 18–31 Mei 2015, P2 / testing = 16–31 Juli 2015 (UTC, batas akhir inklusif).
 - **Penjelasan lengkap** (jawaban tiap soal, penjelasan Cypher, interpretasi hasil) ada di dalam notebook, di sel Markdown di atas dan di bawah tiap sel kode.
 
 ## Isi repositori

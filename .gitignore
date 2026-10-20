@@ -1,0 +1,14 @@
+# environment dan cache
+myvenv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# data mentah berukuran besar (unduh dari Kaggle)
+*.zip
+data/events.csv
+data/item_properties_part1.csv
+data/item_properties_part2.csv
+data/category_tree.csv
+ss/

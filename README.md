@@ -11,7 +11,7 @@ Notebook ini mengerjakan UTS Graf Sains Data: data interaksi RetailRocket dimuat
 
 ```
 .
-├── 203_UTS_Graf_Sains_Data.ipynb   # notebook utama: kode, output, dan penjelasan
+├── 203_UTS_GSD.ipynb   # notebook utama: kode, output, dan penjelasan
 ├── data/
 │   ├── events_P1.csv         # hasil filter P1 (training)
 │   └── events_P2.csv         # hasil filter P2 (testing)
@@ -40,7 +40,7 @@ Notebook ini mengerjakan UTS Graf Sains Data: data interaksi RetailRocket dimuat
    ```
 
 3. Jalankan Neo4j (diuji dengan Neo4j Desktop, instance lokal `neo4j://127.0.0.1:7687`, user `neo4j`, database `neo4j`).
-4. Buka `203_UTS_Graf_Sains_Data.ipynb`, pilih kernel dari environment tadi, lalu *Run All*. Password Neo4j diminta lewat `getpass` dan tidak disimpan di notebook.
+4. Buka `203_UTS_GSD.ipynb`, pilih kernel dari environment tadi, lalu *Run All*. Password Neo4j diminta lewat `getpass` dan tidak disimpan di notebook.
 5. Kalau database sudah berisi graf dari proses sebelumnya, ubah `RESET_GRAPH = True` pada sel reset (bagian no. 3). **Hati-hati: ini menghapus seluruh graf pada database tersebut.**
 
 ## Ringkasan hasil
